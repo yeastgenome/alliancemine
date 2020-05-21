@@ -5,11 +5,11 @@
   <property name="default.intermine.properties.file" location="../default.intermine.integrate.properties"/>
   <sources>
 
-    <source name="alliance-genes" type="alliance-genes">
+    <!--<source name="alliance-genes" type="alliance-genes">
       <property name="source.db.name" value=""/>
       <property name="dataSourceName" value=""/>
       <property name="converter.class" value="org.intermine.bio.dataconversion.AllianceGenesConverter"/>
-    </source>
+    </source>-->
 
     <source name="go" type="go">
       <property name="src.data.file" location="DATA_DIR/intermine/ontology/go-basic.obo"/>
